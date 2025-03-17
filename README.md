@@ -11,7 +11,7 @@ This project generates AI-powered videos from text prompts using **Stable Diffus
 ## Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+    git clone https://github.com/ManasaMusunuri/Video-and-audio-generation.git
    ```  
 2. Navigate to the project folder:  
    ```bash
