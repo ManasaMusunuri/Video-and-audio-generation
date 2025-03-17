@@ -1,6 +1,9 @@
 AI-Powered Text-to-Video Generation
+
 📌 Overview
 This project generates AI-powered videos from text prompts using Stable Diffusion and MoviePy. It creates a sequence of images based on a given prompt, interpolates frames for smooth transitions, and compiles them into a video. Additionally, it supports text-to-audio conversion to generate voiceovers for the videos.
+
+
 🚀 Technologies Used
 •	Python (Primary language)
 •	Stable Diffusion (Image generation)
@@ -39,6 +42,7 @@ Run the script with your custom text prompt:
 python generate_video.py
 Modify the prompt inside the script:
 text_prompt = "How Artificial Intelligence works"
+
 🔥 Features
 ✅ AI-generated videos from text prompts
 ✅ Smooth frame transitions
