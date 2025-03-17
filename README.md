@@ -29,16 +29,16 @@ python generate_video.py
 ```
 
 ## Technologies Used  
-- \U0001F9E0 **Stable Diffusion** (Text-to-Image)  
-- \U0001F3C3 **OpenCV** (Frame Processing)  
-- \U0001F39E **MoviePy** (Video Editing)  
-- \U0001F3A4 **gTTS** (Text-to-Speech)  
-- \U0001F40D **Python** (Core Programming)  
+-  **Stable Diffusion** (Text-to-Image)  
+-  **OpenCV** (Frame Processing)  
+-  **MoviePy** (Video Editing)  
+-  **gTTS** (Text-to-Speech)  
+-  **Python** (Core Programming)  
 
 ## Output  
 \U0001F3A5 The final output is a video with AI-generated visuals and synchronized audio narration.  
 
 ## Contributors  
-- **Your Name** - [GitHub Profile](https://github.com/ManasaMusunuri)  
+- **MANASA** - [GitHub Profile](https://github.com/ManasaMusunuri)  
 
 ---
