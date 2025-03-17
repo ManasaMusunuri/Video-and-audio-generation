@@ -3,10 +3,10 @@
 This project generates AI-powered videos from text prompts using **Stable Diffusion**. It creates smooth, interpolated frames and combines them into a video. Additionally, it generates synchronized **text-to-speech audio** and merges it with the video for a complete multimedia experience. \U0001F680  
 
 ## Features  
-- \U0001F3A8 **AI-generated video frames** using Stable Diffusion  
-- \U0001F504 **Frame interpolation** for smooth transitions  
-- \U0001F3B5 **Text-to-speech audio generation**  
-- \U0001F3AC **Final video creation with synced audio**  
+-  **AI-generated video frames** using Stable Diffusion  
+-  **Frame interpolation** for smooth transitions  
+-  **Text-to-speech audio generation**  
+-  **Final video creation with synced audio**  
 
 ## Installation  
 1. Clone the repository:  
@@ -39,8 +39,6 @@ python generate_video.py
 \U0001F3A5 The final output is a video with AI-generated visuals and synchronized audio narration.  
 
 ## Contributors  
-- **Your Name** - [GitHub Profile](https://github.com/yourusername)  
+- **Your Name** - [GitHub Profile](https://github.com/ManasaMusunuri)  
 
 ---
-
-\U0001F4A1 *Feel free to fork and contribute!* \U0001F680  
